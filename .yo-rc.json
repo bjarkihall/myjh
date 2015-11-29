@@ -1,0 +1,22 @@
+{
+  "generator-jhipster": {
+    "baseName": "SoundUp",
+    "packageName": "com.soundup",
+    "packageFolder": "com/soundup",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": false,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "172770d589191f9409c1cfb6a92df0e5ee771789",
+    "testFrameworks": []
+  }
+}
